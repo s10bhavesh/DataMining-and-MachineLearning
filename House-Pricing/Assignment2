@@ -1,0 +1,12 @@
+Task :-   Develop  a model that has for predicting the value of houses. 
+Solution should contain following steps: 
+
+     Identify the essential features, 
+    Divide the dataset for training and validation. 
+     isolate the missing values,  and outliers. 
+    Describe the data. 
+    Plot the data
+    Replace missing values /  outliers by average
+    Use Least square to perform the regression. 
+
+Use attached data file for solving the problem. 
